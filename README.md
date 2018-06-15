@@ -23,3 +23,4 @@ Input is always read from stdin and written to stdout. There are some example fi
 - No checks are done on whether stdin is a tty and output is always shown to the user.
 - It doesn't check if the screen is large enough to display the griddler.
 - If stdin is not a tty, the `crt` unit clears the screen for some reason.
+- The whole griddler is redrawn on every line, slowing it down. Use the `q` option for faster solving.
