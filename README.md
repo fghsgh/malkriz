@@ -1,5 +1,5 @@
 # malkriz
-Malkriz is a lightweight griddler solver (usually, it uses less than 1 MB RAM, a lot better than my previous one, which used 22 GB).
+Malkriz is a lightweight griddler solver (usually, it uses less than 1 MB RAM, a lot better than my previous one, which used 22 GB, this is mainly because of my new `nextcombination()` function algorithm).
 The name of this comes from the Slovak "malovaná krížovka", which means griddler.
 
 ## Requirements to compile:
