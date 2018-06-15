@@ -12,6 +12,7 @@ You do not need to use a `-` to specify options. These are the options available
 - q: doesn't print the griddler while it's being solved.
 - h: shows a little help message.
 - d: every cell of the griddler is printed as two characters.
+- any other character is ignored.
 
 ## Input:
 Input is always read from stdin and written to stdout. There are some example files in the `test` directory of this repository.
